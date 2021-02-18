@@ -1,0 +1,1 @@
+console.log('created js file for second commit');
